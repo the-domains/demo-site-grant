@@ -1,3 +1,4 @@
+layout_spectrum: 0.8034698665142059
 typography_spectrum: 0.6031440631486475
 color:
   brandStrength: 0.7298723959829658
@@ -10,7 +11,4 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.8034698665142059
 name: Demo Site Grant
-title: Grant Luhmann
-description: 'composer, oboist'
